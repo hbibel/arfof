@@ -1,0 +1,9 @@
+<map id="robotino_controller.h" name="robotino_controller.h">
+<area shape="rect" id="node2" href="$robot__controller_8h.html" title="robot_controller.h" alt="" coords="188,80,311,107"/>
+<area shape="rect" id="node11" href="$two__d__move__capability_8h.html" title="two_d_move_capability.h" alt="" coords="335,80,505,107"/>
+<area shape="rect" id="node12" href="$move__forward__capability_8h.html" title="move_forward_capability.h" alt="" coords="446,162,623,189"/>
+<area shape="rect" id="node13" href="$robotino__base__component_8h.html" title="robotino_base_component.h" alt="" coords="747,80,933,107"/>
+<area shape="rect" id="node5" href="$agent__controller_8h.html" title="agent_controller.h" alt="" coords="195,162,320,189"/>
+<area shape="rect" id="node7" href="$capability_8h.html" title="capability.h" alt="" coords="409,244,497,271"/>
+<area shape="rect" id="node9" href="$component_8h.html" title="component.h" alt="" coords="647,162,745,189"/>
+</map>

@@ -1,0 +1,3 @@
+<launch>
+  <node name="factory_floor_manager" pkg="factory_floor_manager" type="factory_floor_manager_node" launch-prefix="valgrind --leak-check=full"/>
+</launch>

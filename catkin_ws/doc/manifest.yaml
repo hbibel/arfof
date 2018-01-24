@@ -1,0 +1,22 @@
+actions:
+- robotino_two_d_move_step
+authors: Hannes Bibel <bibel@in.tum.de>
+brief: ''
+bugtracker: ''
+depends:
+- catkin
+- roscpp
+- actionlib
+- message_runtime
+- std_msgs
+- robotino_local_move
+- message_generation
+- actionlib_msgs
+description: The factory_floor_manager package
+license: TODO
+maintainers: Mister TODO <todo@todo.todo>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''

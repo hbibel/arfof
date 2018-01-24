@@ -1,0 +1,10 @@
+#goal
+#Possible goals: verbosity levels, status type ( only agents statuses or only step queue, ...)
+---
+#result
+string node_name
+string[] waiting_steps
+string[] executing_steps
+string[] agent_statuses
+---
+#feedback (currently none)

@@ -1,0 +1,14 @@
+#goal
+string agent_name
+float32 move_x      # in meters
+float32 move_y      # in meters
+float32 rotation    # in rad
+# max speed
+# preconditions:
+string previous_state
+---
+#result
+bool goal_reached
+---
+#feedback, should be more descriptive
+bool working
